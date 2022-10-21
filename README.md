@@ -52,7 +52,7 @@
 
 <h3 align="center" > 📨 Get in touch 📨 </h3>
 
-<p>
+<p align="center" >
   <a href="https://www.linkedin.com/in/marcocasagrande"><img src="https://img.shields.io/badge/-Marco%20Casagrande%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/marcocasagrande" alt="LinkedIn Badge"></a> 
   <a href="https://www.xing.com/profile/Marco_Casagrande"><img src="https://img.shields.io/badge/-Marco%20Casagrande%20-blue?style=plastic&amp;labelColor=blue&amp;logo=Xing&amp;link=https://www.xing.com/profile/Marco_Casagrande" alt="Xing Badge"></a> 
   <a href="mailto:hire.marco.casagrande@outlook.com"><img src="https://img.shields.io/badge/-hire.marco.casagrande@outlook.com%20-blue?style=plastic&amp;labelColor=blue&amp;logo=gmail&amp;link=mailto:hire.marco.casagrande@outlook.com" alt="Mail Badge"></a> 
