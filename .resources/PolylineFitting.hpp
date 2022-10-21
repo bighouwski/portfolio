@@ -1,5 +1,5 @@
 //!
-//! \file PolylineFittingImpl.hpp
+//! \file PolylineFitting.hpp
 //! \author Marco Casagrande
 //! \date 28.06.2022
 //!
