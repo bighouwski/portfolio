@@ -1,11 +1,11 @@
 <table border="0">
  <tr>
     <td>
-      <img align="center" alt="me" src=".resources/me.png" width=200px/>
+      <img align="center" alt="me" src=".resources/me.png" width=200px />
     </td>
     <td>
       <h3 align="center" > 👋 Hello there! I'm Marco 👋 </h3>
-      I'm a software developer currently focusing on automotive perception algorithms and this is my small portfolio, where you can get an idea about the stuff that I do 🙂
+      <p align="center" > I'm a software developer currently focusing on automotive perception algorithms and this is my small portfolio (of sorts) where you can get an idea about the stuff that I do, which I hope is convincing enough for you to hire me 🙂 </p>
     </td>
  </tr>
 </table>
@@ -13,14 +13,14 @@
 ---
 
 
-- 💓 I love working autonomous vehicles and robots   💓
+- 💓 I love working on autonomous vehicles and robots 💓
 
 - <details open>
   <summary> ⚙️ Some projects I worked on ⚙️ </summary>
 
   -  ⚙️ Relative localization estimation with LiDAR data ⚙️
 
-     <img align="center" alt="GIF" src=".resources/relloc.gif" width=500px/>
+     <img align="center" alt="GIF" src=".resources/relloc.gif" width=500px />
   -  ⚙️ Autonomous robot solving a maze ⚙️
 
      <img align="center" alt="GIF" src=".resources/robot.gif" width=500px />
@@ -36,7 +36,7 @@
 </details>
 
 - <details open>
-  <summary>💼 Some paperwork 💼 </summary>
+  <summary> 💼 Some paperwork 💼 </summary>
 
   -  📜 [Resume](.resources/resume.pdf)
   -  🎓 [Bachelor HAW Hamburg](.resources/bachelor.pdf)
