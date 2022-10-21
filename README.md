@@ -5,7 +5,7 @@
     </td>
     <td>
       <h3 align="center" > 👋 Hello there! I'm Marco 👋 </h3>
-      <p align="center" > I'm a software developer currently focusing on automotive perception algorithms and this is my small portfolio (of sorts) where you can get an idea about the stuff that I do, which I hope is convincing enough for you to hire me 🙂 </p>
+      <p align="center" > I'm a software developer currently focusing on automotive perception algorithms and this is my small portfolio (of sorts) where you can get an idea about the stuff that I do 🙂 </p>
     </td>
  </tr>
 </table>
