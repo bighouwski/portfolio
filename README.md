@@ -26,21 +26,14 @@
 </details>
 
 <details open>
-  <summary> 💻 Some code examples I wrote 💻 </summary>
-
-  -  💻 [Example.hpp](cpp/Example.hpp)
-  -  💻 [Example.cpp](cpp/Example.cpp)
-
-</details>
-
-<details open>
   <summary> 💼 Some paperwork I collected 💼 </summary>
 
   -  📜 [Resume](docs/resume.pdf)
   -  🎓 [Bachelor Degree HAW Hamburg](docs/bachelor.pdf)
   -  🎓 [Master Degree KTH Stockholm](docs/master_kth.pdf)
   -  🎓 [Master Degree TU Berlin](docs/master_tu_berlin.pdf)
-  -  🎖 [Best Bachelor Student Award](docs/bachelor_award.pdf)
+  -  🏅 [Best Bachelor Student Award](docs/bachelor_award.pdf)
+  -  🏅 [Master Degree Award](docs/master_award.pdf)
   -  💌 [Letter of Recommendation FB Services](docs/recommendation_fb_services.pdf)
   -  💌 [Letter of Recommendation Bosch](docs/recommendation_bosch.pdf)
   -  💌 [Letter of Recommendation Ibeo](docs/recommendation_ibeo.pdf)
