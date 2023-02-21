@@ -23,20 +23,29 @@
 
      <img align="center" alt="GIF" src="media/robot.gif" width=500px />
 
+  -  💡 Visualization of HD feature map.
+
+     <img align="center" alt="GIF" src="media/map_matching.gif" width=500px />
+
+  -  💡 Lane markings extraction.
+
+     <img align="center" alt="GIF" src="media/lane_markings.gif" width=500px />
+
 </details>
 
 <details open>
   <summary> 💼 Some paperwork I collected 💼 </summary>
 
   -  📜 [Resume](docs/resume.pdf)
-  -  🎓 [Bachelor Degree HAW Hamburg](docs/bachelor.pdf)
-  -  🎓 [Master Degree KTH Stockholm](docs/master_kth.pdf)
   -  🎓 [Master Degree TU Berlin](docs/master_tu_berlin.pdf)
+  -  🎓 [Master Degree KTH Stockholm](docs/master_kth.pdf)
+  -  🎓 [Bachelor Degree HAW Hamburg](docs/bachelor.pdf)
+  -  🏅 [Master Degree Award TU Berlin](docs/master_award_tub.pdf)
+  -  🏅 [Master Degree Award VDI](docs/master_award_vdi.pdf)
   -  🏅 [Best Bachelor Student Award](docs/bachelor_award.pdf)
-  -  🏅 [Master Degree Award](docs/master_award.pdf)
-  -  💌 [Letter of Recommendation FB Services](docs/recommendation_fb_services.pdf)
-  -  💌 [Letter of Recommendation Bosch](docs/recommendation_bosch.pdf)
-  -  💌 [Letter of Recommendation Ibeo](docs/recommendation_ibeo.pdf)
+  -  💌 [Reference FB Services](docs/reference_fb_services.pdf)
+  -  💌 [Reference Bosch](docs/reference_bosch.pdf)
+  -  💌 [Reference Ibeo](docs/reference_ibeo.pdf)
 </details>
 
 <details open>
