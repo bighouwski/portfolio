@@ -46,6 +46,7 @@
   -  💌 [Reference FB Services](docs/reference_fb_services.pdf)
   -  💌 [Reference Bosch](docs/reference_bosch.pdf)
   -  💌 [Reference Ibeo](docs/reference_ibeo.pdf)
+  -  💌 [Reference Slashwhy](docs/reference_slashwhy.pdf)
 </details>
 
 <details open>
