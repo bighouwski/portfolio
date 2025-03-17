@@ -5,7 +5,10 @@
     </td>
     <td>
       <h1 align="center" style="font-variant: small-caps"> Welcome To My Portfolio </h1>
-      <p align="center" > I am working as a software developer currently focusing on automotive perception algorithms and here you can get an idea about what I do. </p>
+      <p align="left" >I specialize in developing efficient and robust C/C++ software for embedded systems, with a focus on lab automation solutions in healthcare. Currently, I work at Abbott, where I contribute to innovative medical technologies.My academic background includes a Master of Science in Autonomous Systems (KTH Stockholm & TU Berlin) and a Bachelor’s in Information Engineering (HAW Hamburg).</p>
+       <p align="left" >Previously, I developed industrial-grade concurrent software for ARM platforms at Slashwhy and worked on low-latency automotive perception algorithms at Ibeo Automotive Systems (now MicroVision), leveraging LiDAR sensor data for autonomous systems.</p>
+       <p align="left" >I’m passionate about applying my engineering expertise to build high-quality, impactful solutions that shape the future.</p>
+       <p align="left" >Check out my projects below!</p>
     </td>
  </tr>
 </table>
